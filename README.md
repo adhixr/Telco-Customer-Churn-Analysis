@@ -23,4 +23,4 @@ Fiber Optic service customers have high churn rate over DSL customers. Technolog
 
 Streaming TV and Streaming movies infrastructure and content needs to be improved via good customer recommendations and overall quality as these have high churn rate.
 
-Exact marginal effects are available in the Report and code file.
+The exact marginal effects are available in the Report and code file.
