@@ -22,3 +22,5 @@ Similar to phone customers, tie down new customers to contracts and CC Autopay t
 Fiber Optic service customers have high churn rate over DSL customers. Technology and Infrastructure of fiber optic service needs to be improved. At the same time, consider offers and discounts to lure new customers to sign up for this service post improvement.
 
 Streaming TV and Streaming movies infrastructure and content needs to be improved via good customer recommendations and overall quality as these have high churn rate.
+
+Exact marginal effects are available in the Report and code file.
